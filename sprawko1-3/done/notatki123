@@ -1,0 +1,7 @@
+=== formularz umiejetnosci ===
+- podpunkt A4 (eliminuje błędy w kodzie)
+        ten podpunkt jest tak rozbudowany i różnorodny, że wymaga nie tyle oddzielnej tabelki co zupełnie oddzielnego formularza. 
+        Od mieszania betonu legacy code, przez algorytmy, tracing, po czytanie logów, debuggery i inne narzędzia 
+- tabelka nt. dokumentacji
+        Najlepsza dokumentacja projektu z nieprzydatnymi logami i tak nie pomoże przy debuggowaniu. Tabela zupełnie pomija ten zakres pracy nad projektem
+        *dopisać jakieś lorem ipsum nt. wyższości logów nad kodem generowanym przez maszynki i opluć closed source *
