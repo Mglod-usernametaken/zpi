@@ -25,7 +25,7 @@ stopa dyskontowa: 10%
 
 ### wartość bieżąca netto NPV i PI
 
-$$NPV = {NCF_n}/{(1+r)^n} $$
+$$ NPV_n =\frac {NCF_n}{(1+r)^n} $$
 
 Korzystając z tego wzoru uzyskujemy watości:
 
